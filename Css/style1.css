@@ -1,0 +1,230 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color:whitesmoke;
+}
+
+.clgimage{
+    width: 50%;
+    height: 325px;
+    background-size: cover;
+    position: relative;
+    left: 25%;
+}
+
+.content{
+    color: blue;
+}
+
+.habout{
+    text-align: center;
+}
+
+
+.Facilities{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0px;
+
+}
+
+.hfac{
+    text-align: center;
+  margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 29%;
+    margin: 0px 20px 20px 0px ;
+    transition: .5s;
+    padding: 10px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color:rgb(218, 169, 114);
+    color:black;
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+.container p{
+    font-size: 17px;
+}
+/* .Laboratories{
+    width:500px;
+    height: 250px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    gap: 20px;
+    margin-right: 10px;
+    
+    
+}
+
+.Auditorium{
+    width:500px;
+    height: 250px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    gap: 20px;
+    margin-right: 10px;
+    
+}
+
+.Canteen{
+    width:500px;
+    height: 250px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    gap: 20px;
+    margin-right: 10px;
+    
+}
+
+.Playground{
+    width:500px;
+    height: 250px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    gap: 20px;
+    margin-right: 10px;
+    justify-content: space-between;
+}
+
+.Hostel{
+    width:500px;
+    height: 250px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    gap: 20px;
+    margin-right: 10px;
+    justify-content: center;
+    
+}
+
+.hcanteen{
+    text-align: center;
+}          
+.hauditorium{
+    text-align: center;
+}
+
+.hlaboratories{
+    text-align: center;
+}
+
+.hplayground{
+    text-align: center;
+}
+
+.hhostel{
+    text-align: center;
+} */
+
+
+.container {
+    padding: 2px 16px;
+  }
+
+.pname{
+    text-align: center;
+}
+
+.content1{
+    font-size: 25px;
+    gap: 5px;
+}
+
+.content2{
+    font-size:20px;
+    gap: 5px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.clg_abt{
+    margin:10px;
+    padding:10px;
+    border: 2px solid black;
+
+}
+
+
+
+.content1 {
+    font-size: 20px;
+    padding: 18px;
+    padding-top: 18px;
+    padding-right: 18px;
+    padding-bottom: 18px;
+    padding-left: 18px;
+    gap: 5px;
+    row-gap: 5px;
+    column-gap: 5px;
+   
+}
+
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.Principal{
+    margin:10px;
+    padding:10px;
+    border: 2px solid black; 
+}
+
+.content2 {
+    font-size: 20px;
+    padding: 18px;
+    padding-top: 18px;
+    padding-right: 18px;
+    padding-bottom: 18px;
+    padding-left: 18px;
+    gap: 5px;
+    row-gap: 5px;
+    column-gap: 5px;
+   
+}
+
+
+
+.princi{
+    width: 30%;
+   margin-left: 35%;
+
+
+}
+
+.para{
+    color: gray;
+    text-align: center;
+}
+
+.parap{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
